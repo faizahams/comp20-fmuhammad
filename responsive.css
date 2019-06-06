@@ -1,0 +1,57 @@
+.top-first
+{width:50px;
+height:50px;
+background:url(/images/software.png) 1200px 0px;
+}
+.top-second
+{width:50px;
+height:50px;
+background:url(/images/software.png) 1100px 0px;
+}
+.top-third
+{width:50px;
+height:50px;
+background:url(/images/software.png) 1000px 0px;
+}
+.top-fourth
+{width:50px;
+height:50px;
+background:url(/images/software.png) 900px 0px;
+}
+
+.top-fifth
+{width:50px;
+height:50px;
+background:url(/images/software.png) 800px 0px;
+}
+
+
+.bottom-first
+{width:50px;
+height:50px;
+background:url(/images/software.png) 700px 50%;
+}
+
+.bottom-second
+{width:50px;
+height:50px;
+background:url(/images/software.png) 600px 50%;
+}
+
+.bottom-third
+{width:50px;
+height:50px;
+background:url(/images/software.png) 500px 50%;
+}
+
+.bottom-fourth
+{width:50px;
+height:50px;
+background:url(/images/software.png) 400px 50%;
+}
+
+.bottom-fifth
+{width:50px;
+height:50px;
+background:url(/images/software.png) 399px 50%;
+}
